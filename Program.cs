@@ -8,6 +8,6 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Az első argumrntum: "+ args[0]);
-
+        
     }
 }
